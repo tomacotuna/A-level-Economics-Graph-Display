@@ -1,0 +1,36 @@
+#customBar {
+    /*-fx-accent: #8B0000 ;*/
+
+}
+
+#title {
+    -fx-font-size: 20px;
+    -fx-font-family: 'Source Sans Pro';
+    -fx-text-fill: ghostwhite;
+}
+
+
+#MenuPane{
+    -fx-background-image: url(images/particles.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover, auto;
+}
+
+#HomeButton{
+    -fx-graphic: url(images/home.png);
+    -fx-background-color: transparent;
+}
+
+#Hyperlink{
+    -fx-font-family: 'Source Sans Pro';
+
+}
+
+#Background{
+    -fx-font-family: 'Source Sans Pro';
+}
+
+#ExitButton{
+       -fx-graphic: url(images/exit.png);
+       -fx-background-color: transparent;
+}
